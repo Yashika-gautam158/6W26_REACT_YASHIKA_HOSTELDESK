@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import RoomCard from "./RoomCard";
+import Roomcard from "./Roomcard";
 import RoomService from "../../../services/Roomservice";
 
 export default function Rooms() {
